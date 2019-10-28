@@ -19,7 +19,7 @@ Assessments are meant to give you and RBK staff an idea of how well you understa
 
 You are allowed to use [MDN](https://developer.mozilla.org). Using _any_ other resources, online or otherwise, including previous class materials, or, communicating through any mechanism with anyone other than RBK staff during the assessments is academic dishonesty and is cause for **immediate removal from the course.** If you have any questions about whether a resource is available for use, or if you are in need of support, submit a help request.
 
-## Submitting Solutions
+## Submitting Solutions.
 
 Solutions are submitted via [Pull Request](https://help.github.com/articles/using-pull-requests). Follow these steps:
 

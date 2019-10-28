@@ -22,6 +22,9 @@ var employeeA = employee("jack", 100);
 var employeeB = employee("Mark", 200);
 var employeeC = employee("Sara", 150);
 
+function sayMyName(){
+	return employee['name'];
+}
 
 //create a function when invoked returns the name of that employee.
 
